@@ -1,8 +1,0 @@
-site_name: Academics Notes
-site_url: https://example.com/
-
-theme: windmill-dark
-
-nav:
-  - Home: index.md
-  
