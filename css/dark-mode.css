@@ -1,0 +1,91 @@
+
+[data-theme="dark"] .container-fluid{
+  background-color: #2e303e !important;
+  color: #eee;
+}
+[data-theme="dark"] .navbar {
+  background-color: #8bc34b !important;
+}
+[data-theme="dark"] .a {
+  color: #eee !important;
+}
+[data-theme="dark"] .notes a:before{
+  color: rgb(0, 0, 0);
+  border-color: rgb(255, 255, 255);
+  background: rgb(255, 255, 255);
+  transform: rotateY(0deg) translateZ(25px);
+}
+[data-theme="dark"] .notes a:after{
+  border-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  transform: rotateX(90deg) translateZ(25px);
+}
+[data-theme="dark"] .notes a:hover{
+  transform: translateZ(-25px) rotateX(-90deg);
+}
+[data-theme="dark"] .a {
+  color: #8bc34b !important;
+}
+[data-theme="dark"]  .mail {
+  color: #8bc34b !important;
+}
+[data-theme="dark"]  .mail:hover {
+  color: #ae40ee !important;
+}
+[data-theme="dark"]  .progress-bar {
+  background-color: #8bc34b !important;
+}
+[data-theme="dark"] .wrapper {
+  color: rgba(0, 0, 0, 0.356) !important;
+}
+[data-theme="dark"]  .progress-bar-striped {
+  color: #8bc34b !important;
+}
+[data-theme="dark"] .text-primary {
+  color: #8bc34b !important;
+}
+[data-theme="dark"] .wrapper .icon:hover span, {
+  background-color: #85d38e !important;
+}
+}
+[data-theme="dark"] .img-00 {
+  color: #eee !important;
+  filter: brightness(200%);
+}
+[data-theme="dark"] .img-01 {
+  color: #eee !important;
+  filter: brightness(200%);
+}
+[data-theme="dark"] .img-02 {
+  color: #eee !important;
+  filter: brightness(150%);
+}
+[data-theme="dark"] .img-03 {
+  color: #eee !important;
+  filter: brightness(250%);
+}
+[data-theme="dark"] .img-04 {
+  color: #eee !important;
+  filter: brightness(100%);
+}
+[data-theme="dark"] h1 {
+  color: #eee !important;
+}
+[data-theme="dark"] h2 {
+  color: #eee !important;
+}
+[data-theme="dark"] h3 {
+  color: #eee !important;
+}
+[data-theme="dark"] h4 {
+  color: #eee !important;
+}
+[data-theme="dark"] h5 {
+  color: #eee !important;
+}
+[data-theme="dark"] h6 {
+  color: #eee !important;
+}
+[data-theme="dark"] .bg-white {
+  background-color: #000 !important;
+}
