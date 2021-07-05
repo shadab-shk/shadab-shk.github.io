@@ -1,0 +1,23 @@
+{
+  "name": "shadab-shk.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d Portfolio"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadab-shk/shadab-shk.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadab-shk/shadab-shk.github.io/issues"
+  },
+  "homepage": "https://github.com/shadab-shk/shadab-shk.github.io",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
